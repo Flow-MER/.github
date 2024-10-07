@@ -5,6 +5,8 @@ https://flow-mer.org.au/
 
 Lets share some of our analysis code and help each other.  Python, R, PowerBI, SQL.. whatever the flavour.
 
+You don't need to be an expert programmer to contribute.  GitHub can be confusing but others can help with advice or put your code up for you.
+
 <!--
 
 **Here are some ideas to get you started:**
