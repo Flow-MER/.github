@@ -3,9 +3,10 @@ Flow-MER is the Commonwealth Environmental Water Holder's Flow Monitoring Evalua
 
 https://flow-mer.org.au/
 
-Lets share some of our analysis code and help each other.  Python, R, PowerBI, SQL.. whatever the flavour.
+This is a palce for Flow_MER team members to share some of our analysis code and help each other.  Python, R, PowerBI, SQL.. whatever the flavour.
 
 You don't need to be an expert programmer to contribute.  GitHub can be confusing but others can help with advice or put your code up for you.
+
 
 <!--
 
