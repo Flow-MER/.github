@@ -7,6 +7,7 @@ This is a palce for Flow_MER team members to share some of our analysis code and
 
 You don't need to be an expert programmer to contribute.  GitHub can be confusing but others can help with advice or put your code up for you.
 
+Reach out to the Basin-scale data mangement team if you need help or drop a note in the [discussions](https://github.com/orgs/Flow-MER/discussions)
 
 <!--
 
